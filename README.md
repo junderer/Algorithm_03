@@ -19,6 +19,9 @@
 #### 2. Training with Training loss
 ### Training Step
 ### Training for 5 epochs.
+```Python
+model_3.fit(train_images, train_labels, epochs = 5)
+```
 ![epoch](https://user-images.githubusercontent.com/66125576/173174477-c4fcf9c8-2100-4b41-9fb1-f7bd37b512fd.PNG)
 
 
